@@ -1102,6 +1102,10 @@ video {
     margin-left: 1rem;
   }
 
+  .sm\:mr-1{
+    margin-right: 0.25rem;
+  }
+
   .sm\:mt-16{
     margin-top: 4rem;
   }
@@ -1116,10 +1120,6 @@ video {
 
   .sm\:mt-5{
     margin-top: 1.25rem;
-  }
-
-  .sm\:mr-1{
-    margin-right: 0.25rem;
   }
 
   .sm\:block{
